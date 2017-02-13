@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Device Admin</string>
+    <string name="app_log_fileName">DeviceAdminLogs.txt</string>
+    <string name="request_explanation">Some long explanation</string>
+</resources>
